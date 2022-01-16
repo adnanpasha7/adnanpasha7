@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Adnan Pasha
 - 👀 I’m interested in coding with Python
 - 📫 You can reach me on instagram or on my twitter
-instgram = @adnan_pasha_
+instagram = @adnan_pasha_
 twitter = @adnanpasha_
 
 <!---
