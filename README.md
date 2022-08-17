@@ -1,8 +1,5 @@
 - 👋 Hi, I'm Adnan Pasha
-- 👀 I code
-- 📫 You can reach me on instagram or on my twitter
-instagram = @adnan_pasha_
-twitter = @adnanpasha_
+- Learning JavaScript
 
 <!---
 adnanpasha7/adnanpasha7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
